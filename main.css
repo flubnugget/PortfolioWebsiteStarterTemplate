@@ -21,13 +21,18 @@
     width: 100%;
     margin-bottom: 20px;
     display: flex;
+    
 }
 
 .col-1 {
     width: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .col-2 {
     width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
