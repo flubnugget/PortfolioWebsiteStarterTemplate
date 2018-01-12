@@ -36,3 +36,21 @@
     padding-right: 100px;
 }
 
+h1 {
+    font-size: 50px;
+    color: darkorange;
+    text-align: center;
+        
+    
+}
+
+h2 {
+    font-size: 40px;
+    color:aqua;
+    text-align: center;
+        
+    
+}
+.body {
+    background-color: black
+}
